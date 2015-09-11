@@ -1,7 +1,7 @@
 twitter source# 1
 
 funtion hide_follow(){
-
+		return false;
 }
 
 twitter source# 2
